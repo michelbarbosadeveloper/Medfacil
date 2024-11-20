@@ -1,0 +1,109 @@
+body {
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important; /* A imagem fica fixa ao rolar a página */
+    background-size: cover !important;
+}
+
+
+
+.nav_medfacil {
+    background-color: #64A9A4;
+}
+
+.medfacil_link_all {
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    list-style: none;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.medfacil_link {
+    color:white !important;
+    text-decoration: none;
+    font-size: 18px;
+
+}
+
+.nav-link:hover {
+    color: #f4574e !important;
+}
+
+.logo_medfacil {
+    width: 500px;
+    text-align: center !important;
+}
+
+.consulta__med {
+    padding: 5rem !important;
+    width: 75% !important;
+    border-radius: 100px !important;
+    box-shadow:black !important;
+}
+
+
+
+.text-primary {
+    color:#64A9A4 !important;
+    font-size: 32px !important;
+}
+
+.text-muted {
+    color:#64A9A4 !important;
+    font-size: 15px !important;
+}
+
+.text-secondary{
+    color: #64A9A4 !important;
+}
+
+.text-muted_2 {
+    color: white !important;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Medicine_Car {
+    width: 10%;
+}
+
+.doctor_duo {
+    width: 40%;
+    
+}
+
+.form_date_consulta {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
+    margin: 15px 0;
+}
+
+.form_name_consulta {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
+}
+
+.btn_agendar_consulta {
+    background-color: #64A9A4;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    font-size: 18px;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.footer {
+    background-color: #64A9A4;
+    color: white;
+}
+
+.meu_link_insta {
+    color: white !important;
+    text-decoration: none !important;
+}
